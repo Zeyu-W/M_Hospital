@@ -1,0 +1,6 @@
+G:\Testing_dataset\18624\Patient45_BED05_t5.e
+G:\Testing_dataset\18625\Patient46_BED06_t6.e
+G:\Testing_dataset\18626\Patient47_BED07_t7.e
+G:\Testing_dataset\18627\Patient48_BED08_t8.e
+G:\Testing_dataset\18628\Patient49_BED09_t9.e
+G:\Testing_dataset\18629\Patient50_BED10_t10.e
